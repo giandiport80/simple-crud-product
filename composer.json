@@ -1,0 +1,16 @@
+{
+    "name": "giann/simple-crud-product",
+    "description": "Simple CRUD Product dengan PHP, MySQL & Bootstrap 5",
+    "autoload": {
+        "psr-4": {
+            "Giann\\SimpleCrudProduct\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "giannurwana19",
+            "email": "giannurwana19@gmail.com"
+        }
+    ],
+    "require": {}
+}
